@@ -25,6 +25,6 @@ public class Room {
     @Index public String name;
     String name2;
     
-    private Song lastSong;
+    private Song lastSong; 
 
 }
